@@ -53,5 +53,14 @@
     "react/jsx-one-expression-per-line": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn"
-  }
+  },
+  "globals": {
+  "IS_PROD": true,
+  "STRIPE_PUBLIC_KEY": true,
+  "SENTRY_CLIENT_URL": true,
+  "deferredPrompt": true,
+  "axios": true,
+  "globalThis": true,
+  "ENABLE_SOCKETS": true
+}
 }
