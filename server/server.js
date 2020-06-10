@@ -31,7 +31,7 @@ try {
 
 let connections = []
 
-const port = process.env.PORT || 8090
+const port = process.env.PORT || 3000
 const server = express()
 
 const { readdirSync } = require('fs')
