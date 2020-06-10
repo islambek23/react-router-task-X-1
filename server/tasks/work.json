@@ -1,0 +1,44 @@
+[
+  {
+    "taskId": "74rxJM2ly",
+    "title": "Work title 1",
+    "status": "new"
+  },
+  {
+    "taskId": "74ixJM2ly",
+    "title": "Work title 2",
+    "status": "new"
+  },
+  {
+    "taskId": "9wVSedEcR",
+    "title": "Work title 3",
+    "status": "new",
+    "_isDeleted": false,
+    "_createdAt": 1591004120140,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "uSXRxQ8bZ",
+    "title": "Work title 4",
+    "status": "in progress",
+    "_isDeleted": false,
+    "_createdAt": 1591004515723,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "w8f9kbNZA",
+    "title": "Work title 5",
+    "status": "blocked",
+    "_isDeleted": true,
+    "_createdAt": 1591207910112,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "p9XyhYPKu",
+    "title": "Work title 5",
+    "status": "new",
+    "_isDeleted": false,
+    "_createdAt": 1591688114661,
+    "_deletedAt": null
+  }
+]
